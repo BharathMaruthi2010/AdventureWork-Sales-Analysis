@@ -13,4 +13,6 @@ The dashboard delivers insights through KPIs, trends, and interactive visuals to
 
 ---
 
-## 📂 Project Structure
+
+## 📂 Project Preview
+<img width="1042" height="597" alt="Screenshot 2025-09-08 134440" src="https://github.com/user-attachments/assets/f04c719f-e1ed-4187-865b-cf48bcbdc0b0" />
